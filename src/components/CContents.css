@@ -1,0 +1,19 @@
+.contentsFlex{
+    background-color: aqua;
+    padding: 20px; 
+    display: flex;
+}
+
+
+
+.contentsFlexImg{
+max-width: 400px;
+max-height: 200px;
+}
+
+
+
+
+.contentsFlexTxt{
+
+}
