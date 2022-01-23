@@ -18,6 +18,8 @@ function App() {
       <CFooter weather="Słoneczna" temp="25">
         <p> Niebo jest bezchmurne, wiatr słaby. </p>
       </CFooter>
+      
+      <p>link do repozytorium: https://github.com/Czuka/Lab_6_7_Zapedzki</p>
       {/*<CFooter weather="deszczowa" temp="13"/>
       <CFooter weather="śnieżna" temp="-6"/>*/}
     </div>
